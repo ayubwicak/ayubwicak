@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya NAMA KAMU 👋</h1>
+<h1 align="center">Hai, saya AYUB WICAKSONO 👋</h1>
 
 <p align="center">
   <em>Developer yang suka membangun hal sederhana dengan dampak nyata.</em>
